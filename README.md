@@ -1,3 +1,5 @@
+## Project Background: 
+This project is based on NLP concepts I learned through Udemy coursework. It was completed before but I recently reconstructed and updated the implementation to practice text preprocessing, TF-IDF, and sentiment classification.
 
 ## Model Results
 
